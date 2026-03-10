@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class GraphCycleDetection {
+public class GraphCycleDetectionUndirected {
 
     public static void main(String[] args) {
         //Input: graph = [[1, 2], [0, 4], [0, 3], [2, 4], [1, 3]]
